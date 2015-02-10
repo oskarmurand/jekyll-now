@@ -9,7 +9,7 @@ layout: default
     {{ content }}
   </div>
   <div class="tags">
-  	 {{ page.tags | array_to_sentence_string }} 
+  	 Tags: {{ page.tags | array_to_sentence_string }} 
   </div>
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
