@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WebDev2 AMT Exercise 1 - Titanium ALloy Login Screen
-tags: amt android ios titanium alloy
+tags: [amt, android, ios, titanium, alloy]
 ---
 
 ![titanium alloy crossplatform mobile login screen development](https://dl.dropboxusercontent.com/u/259275/blog/images/Screen%20Shot%202015-02-09%20at%2023.18.00.png)
