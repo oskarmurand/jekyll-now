@@ -2,6 +2,7 @@
 layout: post
 title: Tags and Categories with Jekyll on Github Pages
 tags: [jekyll, github]
+categories: [jekyll]
 ---
 
 <!--![titanium alloy crossplatform mobile login screen development](https://dl.dropboxusercontent.com/u/259275/blog/images/Screen%20Shot%202015-02-09%20at%2023.18.00.png)-->

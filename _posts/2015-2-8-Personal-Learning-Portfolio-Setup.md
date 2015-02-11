@@ -2,6 +2,7 @@
 layout: post
 title: Personal Learning Portfolio Setup
 tags: [jekyll, github, github-pages]
+categories: [jekyll]
 ---
 
 ![jekyll logo](https://dl.dropboxusercontent.com/u/259275/blog/images/jekyll-logo-transparent.png)
