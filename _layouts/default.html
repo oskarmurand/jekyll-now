@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
@@ -32,8 +33,13 @@
           </div>
           
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/"><i class="fa fa-pencil"></i>
+Blog</a>
+            <a href="{{ site.baseurl }}/archive.html"><i class="fa fa-folder-o"></i>
+</i> Archive</a>
+            <a href="{{ site.baseurl }}/about"><i class="fa fa-user"></i>
+
+About</a>
           </nav>
         </header>
       </div>
