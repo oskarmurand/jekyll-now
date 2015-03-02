@@ -13,6 +13,7 @@ categories: [AMT]
 ---
 
 # AMT: Exercise 2 Solution #
+* TLDR: [Exercise 2 APK](https://dl.dropboxusercontent.com/u/259275/blog/Web%20Development/2nd%20Semester/AMT/Exercise%202/Exercise%202.apk)
 
 During the second day of AMT class we explored creating windows inside of the phone application (just like hyperlinks) and middleware usage for connecting to a database on the server.
 
@@ -31,10 +32,12 @@ The idea was to create a cloud service that we could use for login. This will be
 
 Ofcourse doing this, at basically every step it is essential to read the [documentation](http://docs.appcelerator.com/titanium/latest/). Thanks Appcelerator!
 
-In order to use Appcelerator Cloud Solution one will need to create an Appcelerator account and create a database on their server for free trough the [My Apps](https://my.appcelerator.com/apps) menu.
+In order to use Appcelerator Cloud Solution one will need to create an Appcelerator account and create a database on their server for free through the [My Apps](https://my.appcelerator.com/apps) menu.
 
 ![appcelerator database image](https://dl.dropboxusercontent.com/u/259275/blog/images/Screen%20Shot%202015-02-23%20at%2010.09.35.png)
 
+After setting everything up we build the login function and redirect the page if the strings match and display the first and last name of the user as a popup.
 
+[Exercise 2 APK](https://dl.dropboxusercontent.com/u/259275/blog/Web%20Development/2nd%20Semester/AMT/Exercise%202/Exercise%202.apk)
 
 ---
