@@ -13,7 +13,7 @@ categories: [AMT]
 ---
 
 # AMT: Exercise 2 Solution #
-* TLDR: [Exercise 2 APK](https://dl.dropboxusercontent.com/u/259275/blog/Web%20Development/2nd%20Semester/AMT/Exercise%202/Exercise%202.apk)
+*TLDR: [Exercise 2 APK](https://dl.dropboxusercontent.com/u/259275/blog/Web%20Development/2nd%20Semester/AMT/Exercise%202/Exercise%202.apk)*
 
 During the second day of AMT class we explored creating windows inside of the phone application (just like hyperlinks) and middleware usage for connecting to a database on the server.
 
