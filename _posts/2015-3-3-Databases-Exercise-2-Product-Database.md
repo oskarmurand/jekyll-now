@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WebDev2 Databases Exercise 2: MySQL Product Database
+title: WebDev2 Databases Exercise 2 - MySQL Product Database
 tags: [databases, mysql]
 categories: [mysql]
 ---
