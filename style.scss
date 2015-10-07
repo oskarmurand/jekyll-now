@@ -31,9 +31,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: $georgia;
   color: #555;
-  font-weight: 400;
+  font-weight: $regular;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -121,7 +121,7 @@ em, i {
 }
 
 strong, b {
-  font-weight: bold;
+  font-weight: $bold;
 }
 
 img {
@@ -212,8 +212,8 @@ img {
   margin: 0;
   color: #FF0F46;
   cursor: pointer;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-weight: 700;
+  font-family: $helvetica;
+  font-weight: $bold;
   font-size: 30px;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -222,8 +222,8 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: #4CB0D4;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-weight: 400;
+  font-family: $georgia;
+  font-weight: $regular;
   font-size: 1em;
 
   @include mobile {
@@ -235,7 +235,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: 'Roboto Condensed', sans-serif;
-  font-weight: 300;
+  font-weight: $light;
   font-size: 18px;
   color: #4CB0D4;
 
