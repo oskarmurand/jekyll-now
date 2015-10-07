@@ -9,10 +9,7 @@ This is an update to my [previous post]({% post_url 2015-2-10-Tags-And-Categorie
 
 ![face-palm](https://dl.dropboxusercontent.com/u/259275/blog/images/face-palm.gif)
 
-So, I googled around and found an elegant solution that actually works beautifully to give me categories. Awesome!
-
-<pre class="codepen" data-height="470" data-type="html" data-href="VYyyKo" data-user="oskarmurand" data-safe="true"> <code> </code> <a href="http://codepen.io/oskarmurand/pen/VYyyKo">Check out this Pen!</a> </pre>
-<script src="http://codepen.io/assets/embed/ei.js"> </script>
+So, I googled around and found an [elegant solution](http://codepen.io/oskarmurand/pen/VYyyKo) that actually works beautifully to give me categories. Awesome!
 
 This code is pretty much all I need to insert to the default.html layout in order to generate the categories list in the Archive page. The other requirement is adding categories to posts. This I do in the header of the markdown files in YAML format - categories: [jekyll]
 
