@@ -1,17 +1,9 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: about/
+profile: true
 ---
 
-Some information about you!
+This is a static page. It could be an 'about page' if you'd like.
 
-###More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
-
-###Contact me
-
-<i class="fa fa-envelope"></i> [oskar.murand@gmail.com](mailto:oskar.murand@gmail.com)
-
-<i class="fa fa-twitter"></i> [twitter](http://twitter.com/oskarmurand)
+{% include footer.html %}
