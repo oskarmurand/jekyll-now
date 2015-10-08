@@ -14,7 +14,7 @@ function isRetina() {
 		return true;
  
 	return false;
-};
+}
  
  
 function retina() {
@@ -31,6 +31,6 @@ function retina() {
 		
 		$(image).attr("src", path);
 	});
-};
+}
  
 $(document).ready(retina);
