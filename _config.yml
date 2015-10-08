@@ -10,7 +10,6 @@ highlighter: pygments
 paginate: 20
 baseurl: /
 domain_name: 'http://oskarmurand.github.io'
-google_analytics: '' # add this later if ever
 disqus: false
 disqus_shortname: ''  # add this later if ever
 
