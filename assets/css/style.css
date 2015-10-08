@@ -168,12 +168,12 @@ a,
 #post-list a:hover,
 #post-list li:hover .dates,
 #title:hover {
-	text-decoration: none;
-	color: #5badf0;
-	color: #062946;
+	/*text-decoration: none;*/
+	color: #1097b7;
+	color: #0b6a81;
 }
 
-p a { color: #5694f1; }
+p a { color: #1097b7; }
 
 /*Transitions*/
 a,
