@@ -169,8 +169,8 @@ a,
 #post-list li:hover .dates,
 #title:hover {
 	text-decoration: none;
+	color: #5badf0;
 	color: #062946;
-	color: #5694f1;
 }
 
 p a { color: #5694f1; }
