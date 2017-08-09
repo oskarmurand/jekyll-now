@@ -1,1 +1,0 @@
-Personal weblog basedon [Kactus](https://github.com/nickbalestra/kactus) theme.

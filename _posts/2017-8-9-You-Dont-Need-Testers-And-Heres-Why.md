@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You don’t need testers and here’s why
+title: You Don’t Need Testers & Here’s Why
 ---
 
 Look, we all know the usual software building workflow:

@@ -1,41 +1,31 @@
-name: Oskar Murand
-description: Blogging about stuffs
-meta_description: "Personal Weblog, on being awesome."
+# Permalinks
+permalink:      /:year-:month-:day/:title
 
-aboutPage: true
+# Setup
+title:          Oskar Murand
+paginate:       5
+baseurl:        ""
+url:            "https://oskarmurand.github.io"
 
-markdown: redcarpet
-highlighter: pygments
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
 
-paginate: 20
-baseurl: /
-domain_name: 'http://oskarmurand.github.io'
-disqus: false
-disqus_shortname: ''  # add this later if ever
+# Build settings
+markdown:       kramdown
 
-# Details for the RSS feed generator
-url:            'http://oskarmurand.github.io'
-author:         'Oskar Murand'
-authorTwitter:  'oskarmurand'
+# About
+author:
+  name:         Oskar Murand
+  url:          http://oskarmurand.github.io
+  email:        oskar.murand@gmail.com
 
-permalink:       /:year/:title/
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/oskarmurand/oskarmurand.github.io
 
-defaults:
-    -
-        scope:
-            path: "" # empty string for all files
-            type: pages
-        values:
-            layout: default
-    -
-        scope:
-            path: "" # empty string for all files
-            type: posts
-        values:
-            layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+# Gems
+plugins:
+  - jekyll-paginate
