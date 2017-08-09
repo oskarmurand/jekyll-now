@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Oskar Murand
 paginate:       5
-baseurl:        ""
+baseurl:        "/"
 url:            "https://oskarmurand.github.io"
 
 # Assets
